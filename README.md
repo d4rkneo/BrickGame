@@ -1,0 +1,1 @@
+Simple and Basic Brick Breaker Game in Java based on the collision detection.
